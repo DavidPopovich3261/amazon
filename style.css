@@ -1,0 +1,33 @@
+body {
+    margin: 0%;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav a{
+    text-decoration: none;
+    text-align: center;
+    white-space: nowrap;
+    color: white;
+}
+
+nav form {
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+nav div {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+nav a img{
+    height: 30px;
+}
